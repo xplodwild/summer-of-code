@@ -1,4 +1,4 @@
-# XDA GSoC Ideas Page
+# XDA GSoC IDEA (Template)
 Anyone can submit an idea, but it does need to follow the following structure (i.e. copy and paste it to the IDEAS section below):
 ```
 a) Project Title/Description: 
@@ -10,4 +10,4 @@ f) Difficulty (easy, medium or hard):
 g) Your Name or XDA handle: 
 ```
 
-## IDEAS
+## IDEA
