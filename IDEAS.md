@@ -1,5 +1,5 @@
 # XDA GSoC Ideas Page
-Anyone can submit an idea, but it does need to follow the following structure (i.e. copy and paste :
+Anyone can submit an idea, but it does need to follow the following structure (i.e. copy and paste it to the IDEAS section below):
 ```
 a) Project Title/Description: 
 b) Detailed Description of the Project (2-5 sentences): 
