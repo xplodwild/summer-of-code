@@ -15,10 +15,16 @@ c) expected outcomes
 d) skills required/preferred  
 e) possible mentors at XDA (can be the idea submittor but not a student)
 f) if possible, an easy, medium or hard rating for the project
+g) your name and/or XDA handle
 ```
-To submit an idea, do so by 
+To submit an idea, do so by the following steps:
+- Fork this repo 
+- Add your idea using the above structure to the existing IDEAS.md file
+- Submit your pull request back to this repo
 
-### Student looking for an idea
+We will review the submission and if we feel it needs polishing we will respond accordingly.
+
+### Students looking for an idea
 As a student you will need to submit a [project proposal](http://write.flossmanuals.net/gsocstudentguide/writing-a-proposal/) that you want to work on for the summer. If accepted, students spend a month integrating with their organizations prior to the start of coding. Students then have three months to code, meeting the deadlines agreed upon with their mentors. A helpful link for students is the [GSoC Student Manual](http://write.flossmanuals.net/gsocstudentguide/what-is-google-summer-of-code/).
 
 Look through the [Ideas](https://github.com/xda/summer-of-code/blob/master/IDEAS.md) list to find one that strikes your fancy, or add your own to the list and then create your proposal. 
