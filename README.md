@@ -30,4 +30,4 @@ As a student you will need to submit a [project proposal](http://write.flossmanu
 Look through the [Ideas](https://github.com/xda/summer-of-code/blob/master/IDEAS_template.md) list to find one that strikes your fancy, or add your own to the list and then create your proposal. 
 
 ### Mentors
-Existing contributors within XDA can choose to mentor a student project. Mentors and students work together to determine appropriate milestones and requirements for the summer. Mentor interaction is a vital part of the program. If you're interested in being a mentor, please visit the [Mentors Wiki page](https://github.com/xda/summer-of-code/wiki/Mentors) and add yourself. 
+Existing contributors within XDA can choose to mentor a student project. Mentors and students work together to determine appropriate milestones and requirements for the summer. Mentor interaction is a vital part of the program. If you're interested in being a mentor, please visit the [short application](https://docs.google.com/forms/d/e/1FAIpQLScJQs0EABgbRHgcLmNeqjapOkdxuwHrx4vq-BSjiTbHgqkSjQ/viewform) and we will add you to the [Mentors Wiki page](https://github.com/xda/summer-of-code/wiki/Mentors).
