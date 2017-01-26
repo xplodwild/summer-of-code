@@ -21,5 +21,7 @@ To submit an idea, do so by
 ### Student looking for an idea
 As a student you will need to submit a [project proposal](http://write.flossmanuals.net/gsocstudentguide/writing-a-proposal/) that you want to work on for the summer. If accepted, students spend a month integrating with their organizations prior to the start of coding. Students then have three months to code, meeting the deadlines agreed upon with their mentors. A helpful link for students is the [GSoC Student Manual](http://write.flossmanuals.net/gsocstudentguide/what-is-google-summer-of-code/).
 
+Look through the [Ideas](https://github.com/xda/summer-of-code/blob/master/IDEAS.md) list to find one that strikes your fancy, or add your own to the list and then create your proposal. 
+
 ### Mentors
 Existing contributors within XDA can choose to mentor a student project. Mentors and students work together to determine appropriate milestones and requirements for the summer. Mentor interaction is a vital part of the program. If you're interested in being a mentor, please visit the [Mentors Wiki page](https://github.com/xda/summer-of-code/wiki/Mentors) and add yourself. 
