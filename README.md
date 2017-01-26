@@ -19,10 +19,10 @@ g) your name and/or XDA handle
 ```
 To submit an idea, do so by the following steps:
 - Fork this repo 
-- Add your idea using the above structure to the existing IDEAS.md file
+- Using the IDEAS_template.md file as a template, create your own file and name it appropriately with your idea using the above structure
 - Submit your pull request back to this repo
 
-We will review the submission and if we feel it needs polishing we will respond accordingly.
+We will review the submission and if we feel it needs polishing we will respond accordingly. All accepted ideas will be added to the Ideas Wiki page.
 
 ### Students looking for an idea
 As a student you will need to submit a [project proposal](http://write.flossmanuals.net/gsocstudentguide/writing-a-proposal/) that you want to work on for the summer. If accepted, students spend a month integrating with their organizations prior to the start of coding. Students then have three months to code, meeting the deadlines agreed upon with their mentors. A helpful link for students is the [GSoC Student Manual](http://write.flossmanuals.net/gsocstudentguide/what-is-google-summer-of-code/).
